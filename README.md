@@ -1,1 +1,9 @@
 Projetos elaborados com o Power BI utilizando dados fictícios ou dados mascarados para preservar informações confidenciais
+
+Link para os Projetos:
+
+Dashboard Comercial:
+https://app.powerbi.com/view?r=eyJrIjoiZTJiZmNkZWYtYzQyMS00ZjYyLTk2MDAtZGUyYmNlNjk0NDAyIiwidCI6ImYxMDcwNWUyLTJkZGYtNDNkZS1hMDM1LTc0NDFjMTBkZjMwZCJ9
+
+Google Analytics:
+https://app.powerbi.com/view?r=eyJrIjoiMGE0NzZmZWYtODZhYS00MzQ5LWIwMTMtZTkwZDJjZDUxYzlkIiwidCI6ImYxMDcwNWUyLTJkZGYtNDNkZS1hMDM1LTc0NDFjMTBkZjMwZCJ9&pageName=ReportSection
